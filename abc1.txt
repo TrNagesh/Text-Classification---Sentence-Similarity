@@ -1,0 +1,7 @@
+The solution
+
+described allows the migration of curation data into a common model, providing a suitable
+
+transition process in which multiple annotation data can be integrated and enriched, with the
+
+possibility of being shared, compared and reused across semantic knowledge bases.

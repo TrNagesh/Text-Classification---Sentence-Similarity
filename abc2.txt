@@ -1,0 +1,80 @@
+ In the biomedical domain, progress has been
+
+outstanding (2), producing reliable text-mining tools and
+
+innovative text-processing algorithms. The combination of
+
+these techniques has been increasingly applied to assist bio-
+
+curators, allowing the extraction of biomedical concepts
+
+such as genes, proteins, chemical compounds or diseases,
+
+and thus reducing curation times and cost (3). Natural Language Processing (NLP)
+
+techniques (4) are commonly applied as pre-processing
+
+tasks to split documents’ text into meaningful components,
+
+such as sentences and tokens, assign grammatical catego-
+
+ries (a process named part-of-speech tagging), or even
+
+apply linguistic parsing to identify the structure of each
+
+sentence. Next, concept recognition methods are em-
+
+ployed, which involve Named Entity Recognition (NER)
+
+(5) to detect the concept mentions, and normalization or
+
+disambiguation processes (6) to attribute unique identifiers
+
+VC The Author(s) 2017. Page 1 of 10
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits
+
+unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. (page number not for citation purposes)
+
+Database, 2017, 1–10
+
+doi: 10.1093/database/bax088
+
+Original article
+
+https://academic.oup.com/
+
+
+to each detected entity name. The study of these associations has generated
+
+much interest, especially in relation to protein–protein
+
+interactions (8), drug–drug interactions (9) and relations
+
+between chemicals and target genes (10). Brat (11), MyMiner (12), Argo
+
+(13) and Egas (14) are state-of-the-art interactive solutions,
+
+aiming to simplify the annotation process. Nonetheless, these efforts are still hindered by a lack of
+
+standardised ways to process the vast amount of data gen-
+
+erated (15). The pipeline developed
+
+provides interoperable interfaces for the integration of mis-
+
+cellaneous annotated data, enabling the full exploitation of
+
+curated knowledge according to World Wide Web
+
+Consortium (W3C) standards. An evaluation study is pre-
+
+sented regarding Duchenne Muscular Dystrophy (DMD)
+
+disease dataset, showing the integration of two distinct
+
+text-mined results into a reusable and searchable know-
+
+ledge base (available at http://bioinformatics.ua.pt/dmd/sca
+
+leus/).
